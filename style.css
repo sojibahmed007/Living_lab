@@ -1,0 +1,7 @@
+.header_bg{
+    background: linear-gradient(180.00deg, rgba(255, 255, 255, 1),rgba(239, 235, 227, 1) 100%);
+}
+.card_bg{
+    border-radius: 16px;
+background: var(--Secoundry, rgba(239, 235, 227, 1));
+}
